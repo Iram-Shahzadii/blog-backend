@@ -1,4 +1,4 @@
-📌 Blog Backend – MERN Stack
+📌📌 Blog Backend – MERN Stack🗡️🗡️
 
 A fully functional backend API for a Blog Application, built using Node.js, Express.js, and MongoDB Atlas.
 This backend handles authentication, blog CRUD operations, image uploads, and follows best practices for production-ready APIs.
